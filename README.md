@@ -1,8 +1,8 @@
 # Logo Kelab Bolasepak
 
-![Liga Super]([https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20M3.jpg](https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20Super.jpg))
+![Liga Super](https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20Super.jpg)
 ![Liga M3](https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20M3.jpg)
-![Liga M4]([https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20M3.jpg](https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20M4.jpg))
+![Liga M4](https://github.com/ChopCokia/Logo-Kelab-Bolasepak/blob/main/Malaysia/Liga%20M4.jpg)
 
 Logo yang dihasilkan adalah merupakan imej yang dibuat semula dalam bentuk vector(.svg), namun buat masa ini hanya fail-fail dalam bentuk format PNG sahaja yang di 'release'kan.
 
