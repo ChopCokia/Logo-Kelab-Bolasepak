@@ -20,3 +20,5 @@ Untuk **Liga Super**, **Liga M3** dan **Liga M4**, terdapat 2 saiz(**Normal-512x
 Akan dikemaskinikan setiap hari(insyallah, jika masa diizinkan)
 
 Bagi logo hitam-putih(perisai dengan nama kelab) bermaksud logo kelab masih belum di kemas kinikan.
+
+NOTA: Logo untuk kelab **Republic of Borneo(ROB FC)**, **Guar Syed Alwi** tiada dalam bentuk vektor(SVG) memandangkan logo asal(source) yang diperolehi mempunyai efek yang agak sukar untuk ditiru dalam Illustrator.
