@@ -23,7 +23,7 @@ Bagi logo hitam-putih(perisai dengan nama kelab) bermaksud logo kelab masih belu
 
 NOTA: 
 
-  - Logo untuk kelab **Republic of Borneo(ROB FC)**, **Guar Syed Alwi** tiada dalam bentuk vektor(SVG) memandangkan logo asal(source) yang diperolehi mempunyai efek yang agak sukar untuk ditiru dalam Illustrator.
+  - Logo untuk kelab **Republic of Borneo(ROB FC)**, **Guar Syed Alwi**, **Hanelang** tiada dalam bentuk vektor(SVG) memandangkan logo asal(source) yang diperolehi mempunyai efek yang agak sukar untuk ditiru dalam Illustrator. Oleh itu, logo kelab terbabit masih menggunakan grafik asal.
   - Beberapa logo tidak kelihatan(**Ayrish FC**, **Harini FT**, **HELP** dll.) apabila mempunyai latar belakang gelap, di masa akan datang akan diperbaiki dengan meletakkan garisan luaran berwarna terang(kemungkinan putih) untuk membezakan logo dengan latar belakang. Buat masa ini, fokus utama adalah menghasilkan logo seperti yang asal tanpa perubahan.
   
 
